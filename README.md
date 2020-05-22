@@ -1,1 +1,1 @@
-# kata-password-strength-checker_05_22_2020
+Kata is based on this [description](https://github.com/xpepper/PasswordStrengthChecker/blob/master/README.md)
